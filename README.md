@@ -16,6 +16,8 @@ h1.dashed {border-style: dashed;}
 <p align="middle"><font face="Eras Bold ITC" color="blue" size="28"><sup>*</sup> JNTUA BTECH UPDATES<sup>*</sup> </font></p><hr color="#FF007F"></hr>
 <marquee bgcolor="blue" scrollamount="15"><font face="Bauhaus 93" color="yellow" size="15">HELLO DEAR WEBSITE USER'S WELCOME TO ENGINEERING MATERIALS UPDATES HERE YOU CAN CHECK THE UPDATES FROM JNTUA</font></marquee>
 <hr class=new5>
+<p> <span style='font-size:45px;'>&#9819;</span><font size="6" color="red">28-11-2020  JNTUA, Ananthapuramu – University Examinations – Dates: 25.11.2020, 26.11.2020, 27.11.2020 & 28.11.2020 – Rescheduled dates Circular from DE dt 28.11.2020</font> <a href="https://jntua.ac.in/wp-content/uploads/2020/11/Rescheduled-Circular.pdf" target="blank"><font size="5">GET HERE </font></a></p>
+
 <p> <span style='font-size:45px;'>&#9819;</span><font size="6" color="red">26-11-2020  JNTUA, Ananthapuramu – University Examinations – Date: 27.11.2020 – Postponed Circular from DE dt 26.11.2020</font> <a href="https://jntua.ac.in/wp-content/uploads/2020/11/Postponed-Circular-dt-26.11.2020.pdf" target="blank"><font size="5">GET HERE </font></a></p>
 
 <p> <span style='font-size:45px;'>&#9819;</span><font size="6" color="red">22-10-2020  JNTUA B.Tech 1-2 Sem (R19) Regular Exams Notification Nov 2020 Exams</font> <a href="https://drive.google.com/file/d/1qYuBHhTeRdw_YhtJOV_ig5YRoZ-_lPJs/view?usp=sharing" target="blank"><font size="5">GET HERE </font></a></p>
